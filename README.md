@@ -5,7 +5,7 @@ A short, opinionated shelf for designers who build: the books, courses, certific
 Not an awesome-list. Deliberately small. If something is here, I've used it and I'd recommend it to a specific kind of person for a specific reason.
 
 Maintained by [Denys Sergushkin](https://sergushkin.com) · Principal Product Designer · Agentic UX for B2B and ERP · I prototype in code.
-Last updated: 2026-10-30
+Last updated: 2026-10-31
 
 ## How I pick
 
