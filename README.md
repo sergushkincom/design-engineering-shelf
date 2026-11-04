@@ -89,10 +89,14 @@ What I'm reading, taking or practicing right now. One to three items.
 
 Things I want to check out but haven't. No verdicts here — that's the point.
 
+- **[anthropics/skills](https://github.com/anthropics/skills)** — Anthropic · Skill — The official skills repo: document skills, mcp-builder, skill-creator and frontend-design. Reading frontend-design first, then trying it in Claude Code on the next agentic-ux-lab experiment.
+- **[Impeccable](https://github.com/pbakaus/impeccable)** — Paul Bakaus · Skill — Design checks and polish commands for coding agents, plus a Chrome extension and PR checks. Testing the extension on my live demos before installing it in a repo. Install only from the original repo — several forks share the name.
+- **[Taste Skill](https://www.tasteskill.dev/)** — Leon Lin · Skill — A SKILL.md that infers a design direction from the brief, bans common AI-UI patterns and ends with a hard pre-flight checklist. Overlaps a lot with frontend-design; reading its ban list and checklist as a reviewer's cheat sheet before deciding whether to install it.
+
 - **[Designing Autonomous AI](https://www.amazon.com/Designing-Autonomous-AI-Machine-Teaching/dp/1098110757)** — Kence Anderson, O'Reilly 2022 · Book — Reinforcement learning for industrial control, not LLMs. Checking whether his skill-decomposition method transfers to designing agentic workflows.
 
 ## Changelog
-
+- **2026-11** — Three design skills to Backlog: anthropics/skills, Impeccable, Taste Skill.
 - **2026-10** — Shelf created. Certifications section with five entries triaged. First Backlog entry.
 
 ## Contributing
