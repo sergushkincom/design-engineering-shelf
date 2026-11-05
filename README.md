@@ -5,7 +5,7 @@ A short, opinionated shelf for designers who build: the books, courses, certific
 Not an awesome-list. Deliberately small. If something is here, I've used it and I'd recommend it to a specific kind of person for a specific reason.
 
 Maintained by [Denys Sergushkin](https://sergushkin.com) · Principal Product Designer · Agentic UX for B2B and ERP · I prototype in code.
-Last updated: 2026-11-04
+Last updated: 2026-11-05
 
 ## How I pick
 
@@ -83,7 +83,8 @@ Designers and engineers whose work on craft, prototyping and agentic UX I keep c
 
 What I'm reading, taking or practicing right now. One to three items.
 
-- *(to add)*
+- **[Claude Code](https://docs.claude.com/en/docs/claude-code/overview)** — Anthropic · Skill — Building agentic-ux-lab experiments with it: a CLAUDE.md of working rules, plan mode before every change, one small PR at a time. First PR merged on Nov 1.
+- **[Claude Certified Architect – Foundations](https://anthropic-partners.skilljar.com/claude-certified-architect-foundations-certification)** — Anthropic · Cert — Working through the free Anthropic Academy courses as prep.
 
 ## Backlog
 
@@ -96,7 +97,7 @@ Things I want to check out but haven't. No verdicts here — that's the point.
 
 ## Changelog
 
-- **2026-11** — Three design skills to Backlog: anthropics/skills, Impeccable, Taste Skill.
+- **2026-11** — Three design skills to Backlog: anthropics/skills, Impeccable, Taste Skill. Currently section started.
 - **2026-10** — Shelf created. Certifications section with five entries triaged. First Backlog entry.
 
 ## Contributing
