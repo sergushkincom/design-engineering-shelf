@@ -108,4 +108,4 @@ Inspired by Kevin Cannon's [Demystifying Craft: Resources](https://gist.github.c
 
 ## License
 
-Text and notes: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Linked works belong to their authors.
+MIT, see [LICENSE](LICENSE).
