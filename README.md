@@ -5,7 +5,7 @@ A short, opinionated shelf for designers who build: the books, courses, certific
 Not an awesome-list. Deliberately small. If something is here, I've used it and I'd recommend it to a specific kind of person for a specific reason.
 
 Maintained by [Denys Sergushkin](https://sergushkin.com) · Principal Product Designer · Agentic UX for B2B and ERP · I prototype in code.
-Last updated: 2026-11-05
+Last updated: 2026-11-10
 
 ## How I pick
 
@@ -26,6 +26,8 @@ Last updated: 2026-11-05
 Entry format, always in this order:
 
 `- **[Title](url)** — Author · Type · Price · Time · Level · **Verdict** — Why it's here, and the caveat.`
+
+Currently and Backlog use the short form `- **[Title](url)** — Author · Type — Note.` A CI check ([scripts/check_entries.py](scripts/check_entries.py)) fails when an entry breaks this format, and a weekly job checks every link.
 
 ## Start here
 
@@ -102,7 +104,7 @@ Things I want to check out but haven't. No verdicts here — that's the point.
 
 ## Contributing
 
-Suggestions are welcome as [issues](../../issues) — tell me what it is, who it's for and why it beats what's already here. I don't take pull requests: the whole value of this shelf is that one person vouches for every line.
+Suggestions are welcome as [issues](https://github.com/sergushkincom/design-engineering-shelf/issues) — tell me what it is, who it's for and why it beats what's already here. I don't take pull requests: the whole value of this shelf is that one person vouches for every line.
 
 Inspired by Kevin Cannon's [Demystifying Craft: Resources](https://gist.github.com/kevincannon/f66e5e0ac7685594abc62fdce2eb3015) (Push Conf 2026) and the [awesome](https://github.com/sindresorhus/awesome) manifesto — minus its rule about objective descriptions.
 
