@@ -5,7 +5,7 @@ A short, opinionated shelf for designers who build: the books, courses, certific
 Not an awesome-list. Deliberately small. If something is here, I've used it and I'd recommend it to a specific kind of person for a specific reason.
 
 Maintained by [Denys Sergushkin](https://sergushkin.com) · Principal Product Designer · Agentic UX for B2B and ERP · I prototype in code.
-Last updated: 2026-11-05
+Last updated: 2026-11-10
 
 ## How I pick
 
@@ -26,6 +26,8 @@ Last updated: 2026-11-05
 Entry format, always in this order:
 
 `- **[Title](url)** — Author · Type · Price · Time · Level · **Verdict** — Why it's here, and the caveat.`
+
+Currently and Backlog use the short form `- **[Title](url)** — Author · Type — Note.` A CI check ([scripts/check_entries.py](scripts/check_entries.py)) fails when an entry breaks this format, and a weekly job checks every link.
 
 ## Start here
 
