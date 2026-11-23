@@ -1,0 +1,99 @@
+name: Shelf suggestion
+description: Suggest a book, course, certification, skill, talk or person for the shelf
+title: "Suggestion: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting something. The shelf stays small on purpose, and I only add things after I've used them myself, so a good suggestion may sit in Backlog for a while.
+        The fields below are the ones every entry needs.
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      description: The name of the book, course, certification, skill, talk or person.
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Link
+      description: The official page, not an affiliate or shortened link.
+      placeholder: https://
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: Author or publisher
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      options:
+        - Book
+        - Course
+        - Cert
+        - Skill
+        - Talk
+        - Person
+    validations:
+      required: true
+  - type: dropdown
+    id: price
+    attributes:
+      label: Price
+      description: Rough, in USD.
+      options:
+        - Free
+        - $ (under 100)
+        - $$ (100–300)
+        - $$$ (over 300)
+        - Not sure
+    validations:
+      required: true
+  - type: input
+    id: time
+    attributes:
+      label: Time
+      description: Rough hours or weeks to get the value out of it.
+      placeholder: e.g. 6–10 h, or 3 weeks at 1 h/day
+    validations:
+      required: true
+  - type: dropdown
+    id: level
+    attributes:
+      label: Level
+      options:
+        - Starter
+        - Working
+        - Deep
+        - Not sure
+    validations:
+      required: true
+  - type: textarea
+    id: who
+    attributes:
+      label: Who is it for?
+      description: A specific kind of person, not "everyone".
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why does it beat what's already on the shelf?
+      description: What it changed in how you work, and the caveat if there is one.
+    validations:
+      required: true
+  - type: dropdown
+    id: used
+    attributes:
+      label: Have you used it yourself?
+      options:
+        - "Yes, finished it or use it in real work"
+        - "Partly"
+        - "No, it only looks promising"
+    validations:
+      required: true
